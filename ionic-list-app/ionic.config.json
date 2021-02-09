@@ -1,0 +1,7 @@
+{
+  "name": "ionic-list-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
